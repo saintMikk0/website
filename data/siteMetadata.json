@@ -1,0 +1,18 @@
+{
+  "title": "icueMike's Dev Blog",
+  "author": "Michael Moore",
+  "headerTitle": "icueMike's Dev Blog",
+  "description": "My blog is created with Next.js and Tailwind",
+  "language": "en-us",
+  "siteUrl": "https://icuemike.net",
+  "siteRepo": "https://github.com/icueMike/website",
+  "image": "/static/images/avatar.gif",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "icuemike@outlook.com",
+  "github": "https://github.com/icueMike/website",
+  "twitter": "https://twitter.com/icuemike",
+  "facebook": "https://www.facebook.com/CraftyDevelopers/",
+  "youtube": "",
+  "linkedin": "",
+  "locale": "en-US"
+}
